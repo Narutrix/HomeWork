@@ -28,6 +28,19 @@
         <item>@drawable/ic_animation</item>
     </array>
 
+    <string-array name="headers">
+        <item>Head 1</item>
+        <item>Head 2</item>
+        <item>Head 3</item>
+        <item>Head 4</item>
+    </string-array>
+    <string-array name="content">
+        <item>Content 1</item>
+        <item>Content 2</item>
+        <item>Content 3</item>
+        <item>Content 4</item>
+    </string-array>
+
     <!-- Content Description -->
     <string name="desc_list_item_icon">Item Icon</string>
 
