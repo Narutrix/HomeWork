@@ -1,4 +1,4 @@
-package com.svidersky.homework;
+package com.svidersky.homework.Fragments;
 
 import android.app.Fragment;
 import android.os.Bundle;
@@ -8,6 +8,8 @@ import android.view.ViewGroup;
 import android.widget.Button;
 import android.widget.EditText;
 import android.widget.TextView;
+
+import com.svidersky.homework.R;
 
 /**
  * Created by Eren on 19.10.2014.

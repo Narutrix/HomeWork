@@ -1,16 +1,15 @@
-package com.svidersky.homework;
+package com.svidersky.homework.Fragments;
 
 import android.app.Fragment;
-import android.content.DialogInterface;
 import android.os.Bundle;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
 import android.widget.Button;
-import android.widget.EditText;
 import android.widget.TextView;
 
-import org.w3c.dom.Text;
+import com.svidersky.homework.Fragments.Fragment_1;
+import com.svidersky.homework.R;
 
 /**
  * Created by Eren on 19.10.2014.
