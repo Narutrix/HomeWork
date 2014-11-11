@@ -28,9 +28,6 @@ public class CryptFragment extends Fragment {
             {'ъ','ы','ь','э','ю','я','ґ'},
             {'є','ї','!','?',',','.',' '}};
 
-    public CryptFragment(){}
-
-
 	
 	@Override
     public View onCreateView(LayoutInflater inflater, ViewGroup container,
@@ -139,5 +136,4 @@ public class CryptFragment extends Fragment {
         tv_2.setText("");
         ed_1.setText("");
     }
-
 }

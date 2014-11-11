@@ -18,7 +18,7 @@ import com.svidersky.homework.R;
  */
 public class SelectActivity extends Activity {
 
-    final String[] items = {"Drawer", "Multi pane"};
+    final String[] items = {"Drawer", "Multi pane", "Rss reader"};
     Dialog dialog;
     Context context = this;
     Intent intent;
@@ -50,6 +50,9 @@ public class SelectActivity extends Activity {
                     break;
                 case 1:
                     intent = new Intent(context, HeadActivity.class);
+                    break;
+                case 2:
+                    intent = new Intent(context, RssActivity.class);
                     break;
                 default:
                     break;

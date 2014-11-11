@@ -1,0 +1,24 @@
+﻿
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+# On branch master
+# Your branch is up-to-date with 'origin/master'.
+#
+# Changes to be committed:
+#	new file:   HomeWork
+#	modified:   app/Svidersky.apk
+#	modified:   app/src/main/AndroidManifest.xml
+#	modified:   app/src/main/java/com/svidersky/homework/Activity/MyActivity.java
+#	new file:   app/src/main/java/com/svidersky/homework/Activity/RssActivity.java
+#	modified:   app/src/main/java/com/svidersky/homework/Activity/SelectActivity.java
+#	modified:   app/src/main/java/com/svidersky/homework/Fragments/CryptFragment.java
+#	new file:   app/src/main/java/com/svidersky/homework/Fragments/DetailFragment.java
+#	new file:   app/src/main/java/com/svidersky/homework/utils/ServiceHandler.java
+#	new file:   app/src/main/res/layout/menu_detail_fragment.xml
+#	new file:   app/src/main/res/layout/rss_layout.xml
+#
+# Changes not staged for commit:
+#	deleted:    app/src/main/java/com/svidersky/homework/Fragments/Fragment_1.java
+#	deleted:    app/src/main/java/com/svidersky/homework/Fragments/Fragment_2.java
+#
+
