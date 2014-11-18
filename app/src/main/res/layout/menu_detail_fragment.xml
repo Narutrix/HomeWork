@@ -3,15 +3,20 @@
     android:orientation="vertical"
     android:layout_width="match_parent"
     android:gravity="center"
-    android:background="#5ba4e5"
     android:layout_height="match_parent">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        >
 
     <TextView
         android:layout_width="match_parent"
         android:layout_height="match_parent"
-        android:textSize="40px"
-        android:textColor="#ffffff"
-        android:layout_gravity="center"
+        style="@style/MyTextViewStyle"
+        android:autoLink="web"
+        android:linksClickable="true"
         android:id="@+id/detail"/>
+    </ScrollView>
 
 </LinearLayout>

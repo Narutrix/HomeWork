@@ -53,7 +53,6 @@ public class RssActivity extends Activity {
         new GetData().execute();
 
         mTitle = mDrawerTitle = getTitle();
-        //menu = new String[]{"Home","Android","Windows","Linux","Raspberry Pi","WordPress","Videos","Contact Us"};
         menu = new ArrayList<String>();
 
         dLayout = (DrawerLayout) findViewById(R.id.drawer_layout);
